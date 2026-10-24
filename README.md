@@ -1,2 +1,1 @@
-# AD_SciOly_Robot_Code
-# AD_SciOly_Robot_Code
+#Adam Drefs' Science Olympiad Robot Tour Code

@@ -1,0 +1,2 @@
+# Unfortunately, the full 2024-25 Robot Tour source code has been lost
+During the season, I programmed the code on my PC and transfered the code to my partner's laptop for the actual event, but since then I've migrated to Linux on my PC and didn't back up the 24-25 season's code, and the copy on my partner's laptop is incomplete for whatever reason. I wish it wasn't like this, but just trust that the code was a more basic version of the 25-26 code. :(

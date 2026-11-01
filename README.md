@@ -1,1 +1,2 @@
 # Adam Drefs' Science Olympiad Robot Tour Code
+This is just a publicly accessible upload of my Robot Tour code. I never really intended on it being public, and I also didn't use any version control in its development. It's here though if you want to look at the code. The 2024-25 version was built off the FastAccelStepper library by Gin66, and the 2025-26 version used that and the TMC2209 library by janelia-arduino.
